@@ -1,5 +1,5 @@
 # europeana-ui-components-php
-poc for including europeana ui-components in a php project
+poc for including [europeana ui-components](https://github.com/europeana/ui-components) in a php project
 
 ## installing
 requires [composer](https://getcomposer.org/doc/00-intro.md)

@@ -1,0 +1,25 @@
+{
+	"name": "dan/europeana-ui-components",
+	"description": "a php application that demonstrates the use of the https://github.com/europeana/ui-components within it",
+	"authors": [
+		{
+			"name": "dan entous",
+			"email": "dan.entous@pennlinepublishing.com"
+		}
+	],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/europeana/ui-components"
+		},
+		{
+			"type": "vcs",
+			"url": "https://github.com/bobthecow/mustache.php"
+		}
+	],
+	"require": {
+		"php": ">=5.3.2",
+		"mustache/mustache": ">=2.7",
+		"europeana/ui-components": "dev-develop"
+	}
+}
