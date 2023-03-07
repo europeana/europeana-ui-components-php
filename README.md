@@ -1,3 +1,5 @@
+**This project is deprecated and not maintained anymore**
+
 # europeana-ui-components-php
 poc for including [europeana ui-components](https://github.com/europeana/ui-components) in a php project
 
